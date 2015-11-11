@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/diego/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/home/diego/Android/AndroidStudioProyects/iSiteProyectAE/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-11afbd908dba0bb044d71c8dc06314861b60dda4.jar" />
+    </item>
+
+</items>
